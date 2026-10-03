@@ -1,0 +1,19 @@
+# SSH keys
+ssh-keys/
+*.pem
+
+# Environment variables
+.env
+
+# Terraform
+terraform.tfvars
+.terraform/
+*.tfstate
+*.tfstate.*
+
+# Backups
+backups/
+
+# Generated output
+output.txt
+

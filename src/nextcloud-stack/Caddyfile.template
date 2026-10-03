@@ -1,0 +1,3 @@
+http://{{VM_PUBLIC_IP}} {
+	reverse_proxy app:80
+}
