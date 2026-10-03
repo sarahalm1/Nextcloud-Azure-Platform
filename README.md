@@ -31,7 +31,7 @@ An internal file-sharing and collaboration platform built on Nextcloud, provisio
 ## Setup — Part 1: Provision the infrastructure
 
 ```bash
-cd 02_src/terraform-stack
+cd src/terraform-stack
 cp terraform.tfvars.example terraform.tfvars
 ```
 
